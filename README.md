@@ -12,6 +12,7 @@ The questions asked and each answer for every single one of them is provided in 
 ### Files used
 Bikeshare.ipynb
 Bikeshare.html
+Bikeshare.r
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+No other repositories were used.
