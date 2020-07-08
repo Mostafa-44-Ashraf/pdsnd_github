@@ -12,7 +12,6 @@ The questions asked and each answer for every single one of them is provided in 
 ### Files used
 Bikeshare.ipynb
 Bikeshare.html
-Bikeshare.r
 
 ### Credits
 Some geeksforgeeks codes were used.
