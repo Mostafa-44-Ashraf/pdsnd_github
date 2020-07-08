@@ -15,4 +15,4 @@ Bikeshare.html
 Bikeshare.r
 
 ### Credits
-No other repositories were used.
+Some geeksforgeeks codes were used.
